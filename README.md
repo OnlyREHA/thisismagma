@@ -1,1 +1,1 @@
-rehathisismagma.netlify.app
+https://rehathisismagma.netlify.app/
