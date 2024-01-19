@@ -44,6 +44,17 @@ function locomotive() {
 
   //--------------------------------------------------------
 
+ 
+    function scrollToTop() {
+        window.scrollTo(0, 0);
+      }
+  
+      window.onload = function() {
+        setTimeout(scrollToTop, 10);
+    };
+
+  //--------------------------------------------------------
+
 
 
   //page2
